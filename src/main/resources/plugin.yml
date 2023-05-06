@@ -1,0 +1,6 @@
+name: ParkourUtilities
+version: '${project.version}'
+main: me.beeboxmc.parkourutilities.ParkourUtilities
+api-version: 1.19
+authors: [ wmn, TheSheepGoesBa ]
+description: Parkour utilities for a parkour server
