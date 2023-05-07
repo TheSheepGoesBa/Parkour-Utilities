@@ -3,4 +3,10 @@ version: '${project.version}'
 main: me.beeboxmc.parkourutilities.ParkourUtilities
 api-version: 1.19
 authors: [ wmn, TheSheepGoesBa ]
+load: STARTUP
 description: Parkour utilities for a parkour server
+commands:
+  getworldspawn:
+    description: Gets the world spawnpoint
+    usage: /getworldspawn
+    permission: parkourutil.getworldspawn
